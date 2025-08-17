@@ -1,14 +1,19 @@
+# Tic-Tac-Toe Game 🎮
 
-# Tic-Toc-Toe
+A simple web-based Tic-Tac-Toe game using HTML, CSS, and JavaScript.
 
-Welcome to the Tic-Toc-Toe game project! This is a simple implementation of the popular Tic-Toc-Toe game.
+## 🚀 Features
+- Two-player mode
+- Win detection
+- Reset button
 
-## Features:
-- Play against the computer or with a friend
-- Easy-to-use interface
-- Real-time game updates
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-## Installation:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/pgedits/tic-toc-toe.git
+## 📸 Screenshots
+![Game Screenshot](screenshot.png)
+
+## 🔗 Live Demo
+[Play Now](https://your-github-CodeWithGulab.github.io/tic-toc-toe/)
